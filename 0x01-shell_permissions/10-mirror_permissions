@@ -1,2 +1,2 @@
 #!/bin/bash
-chmown --reference= hello
+chmod --reference = hello
